@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "title": "Cashel Blue",
+      "imageURL": "images/cashelblue.jpg",
+      "price": 5.43
+    },
+    {
+      "title": "Dunshyre Blue",
+      "imageURL": "images/dunshyreblue.jpg",
+      "price": 8
+    },
+    {
+      "title": "Dunshyre Blue",
+      "imageURL": "images/evesselection.jpg",
+      "price": 45
+    },
+    {
+      "title": "Hebridean Blue",
+      "imageURL": "images/hebridean.jpg",
+      "price": 6.75
+    },
+    {
+      "title": "Iain's Choice",
+      "imageURL": "images/iains.jpg",
+      "price": 50
+    },
+    {
+      "title": "Karen's Choice",
+      "imageURL": "images/karens.jpg",
+      "price": 40
+    },
+    {
+      "title": "Lanark Blue",
+      "imageURL": "images/lanark.jpg",
+      "price": 6.82
+    },
+    {
+      "title": "Membrillo Blue",
+      "imageURL": "images/membrillo.jpg",
+      "price": 4
+    },
+    {
+      "title": "Mikey's Selection",
+      "imageURL": "images/mikeys.jpg",
+      "price": 70
+    },
+    {
+      "title": "Membrillo Blue",
+      "imageURL": "images/pasteurised.jpg",
+      "price": 40
+    }
+  ],
+  "totalItems": 10,
+  "averagePrice": 27.6
+}
